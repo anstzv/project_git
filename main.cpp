@@ -2,10 +2,11 @@
 
 using namespace std;
 
-int main(
+int main(){
 
          cout<<"Hello GIT"<<endl;
+         cout<<"12345 :) "<<endl;
+         cout<<"Third line"<<endl;
 
-         cout<<"12345"<<endl;
-)
 return 0;
+}
